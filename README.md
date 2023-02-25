@@ -4,6 +4,7 @@ A simple python script that compares each line item string from a text file to s
 Requirements
 
 ```
+git clone
 pip install argparse
 ```
 
